@@ -1,0 +1,45 @@
+{
+    "editor.defaultFoldingRangeProvider": null,
+    "editor.defaultFormatter": "GitHub.codespaces",
+    "json.schemaDownload.enable": false,
+    "json.format.enable": false,
+    "json.trace.server": "verbose",
+    "json.validate.enable": false,
+    "css.customData": [
+        "VS Code"
+    ],
+    "html.customData": [
+        "HTML"
+    ],
+    "javascript.preferences.autoImportFileExcludePatterns": [
+        "Telecoms Clien "
+    ],
+    "js/ts.implicitProjectConfig.strictFunctionTypes": false,
+    "js/ts.implicitProjectConfig.strictNullChecks": false,
+    "markdown.trace.server": "verbose",
+    "markdown.editor.filePaste.audioSnippet": "",
+    "markdown.editor.filePaste.copyIntoWorkspace": "never",
+    "markdown.editor.filePaste.videoSnippet": "",
+    "markdown.preferredMdPathExtensionStyle": "removeExtension",
+    "markdown.preview.fontFamily": "Ui",
+    "markdown.preview.openMarkdownLinks": "inEditor",
+    "markdown.suggest.paths.includeWorkspaceHeaderCompletions": "never",
+    "markdown.updateLinksOnFileMove.enableForDirectories": false,
+    "markdown.updateLinksOnFileMove.include": [],
+    "markdown.validate.fileLinks.enabled": "ignore",
+    "markdown.validate.fileLinks.markdownFragmentLinks": "ignore",
+    "workbench.editor.closeEmptyGroups": false,
+    "window.title": "H",
+    "explorer.autoRevealExclude": {
+        "**/bower_components": false,
+        "**/node_modules": false,
+        "Patrones glob": true
+    },
+    "outline.showConstructors": true,
+    "outline.showStrings": true,
+    "explorer.excludeGitIgnore": true,
+    "explorer.fileNesting.expand": false,
+    "terminal.integrated.confirmOnKill": "panel",
+    "terminal.integrated.cursorBlinking": true,
+    "remoteHub.gitProtocol": "ssh"
+}
